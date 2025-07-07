@@ -8,7 +8,7 @@ class HomePage extends StatelessWidget {
     ['Learn Flutter', false],
     ['Drink Coffee', false],
     ['Stay On Track', false],
-    ['Not That Far', false],
+
   ];
 
   @override
