@@ -30,7 +30,6 @@ class TodoList extends StatelessWidget {
                 ],
               ),
             ),
-          );
-        }
+    );
   }
 }

@@ -1,0 +1,26 @@
+Vs code
+
+create flutter project 
+
+inside 'lib'
+-> folder: pages -> homepage
+--> import 'package:flutter/material.dart';
+---> material.dart is the Flutter package gives you 
+Material Design components like:
+
+Scaffold
+
+AppBar
+
+Text
+
+Column, Row, Container
+
+ElevatedButton, IconButton
+
+ThemeData, Colors
+
+--> use stateless widget
+
+
+**extends stateless widget is on of a kind, who is a collection of other widget.. that describes part of the user interface.**

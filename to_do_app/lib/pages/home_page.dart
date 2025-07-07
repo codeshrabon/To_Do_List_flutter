@@ -4,7 +4,7 @@ import 'package:to_do_app/utils/todo_list.dart';
 class HomePage extends StatelessWidget {
   HomePage({super.key});
 
-  List toDoList = [
+  final List toDoList = [
     ['Learn Flutter', false],
     ['Drink Coffee', false],
     ['Stay On Track', false],
